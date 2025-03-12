@@ -1,4 +1,4 @@
-# SP-NAS: Surgical Phase Recognition-based Navigation Adjustment System for distal gastrectomy (MICCAIW 2024)
+# SP-NAS: Surgical Phase Recognition-based Navigation Adjustment System for distal gastrectomy (AMAI-MICCAI 2024)
 
 🎉 Published in Applications of Medical Artificial Intelligence: Third International Workshop, AMAI 2024, Held in Conjunction with MICCAI 2024.
 → [**PDF**](https://link.springer.com/chapter/10.1007/978-3-031-82007-6_4)
