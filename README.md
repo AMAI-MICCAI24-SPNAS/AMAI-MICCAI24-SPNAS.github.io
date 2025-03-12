@@ -1,4 +1,7 @@
-# SP-NAS: Surgical Phase Recognition-based Navigation Adjustment System for distal gastrectomy
+# SP-NAS: Surgical Phase Recognition-based Navigation Adjustment System for distal gastrectomy (MICCAIW 2024)
+
+🎉 Published in Applications of Medical Artificial Intelligence: Third International Workshop, AMAI 2024, Held in Conjunction with MICCAI 2024.
+→ [**PDF**](https://link.springer.com/chapter/10.1007/978-3-031-82007-6_4)
 
 Surgical navigation systems enhance surgical efficiency and outcomes, especially in minimally invasive surgeries by providing 3D anatomy models from CT scans. We introduce the Surgical Phase Recognition-based Navigation Adjustment System (SP-NAS) for distal gastrectomy, which uses surgical phase recognition for workflow-based adjustments. This system eliminates the need for real-time camera adjustments and challenging registrations by defining three reference views for ten surgical phases. We employed recent action recognition models to identify surgical phases, training and evaluating them on 146 robotic distal gastrectomy cases using 6-fold cross-validation. Our system demonstrated effective phase recognition and post-processed predictions, resulting in a deployable real-time solution.
 
