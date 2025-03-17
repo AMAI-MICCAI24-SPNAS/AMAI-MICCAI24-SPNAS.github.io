@@ -46,6 +46,7 @@ For each recognized phase, the system automatically **rotates/zooms/pans** the p
 $$
 C^*=C_t \quad \text { if } \quad C_t=C_{t+1}=\cdots=C_{t+N-1}, \forall t \in[1, T-N+1] .
 $$
+
 where $C_t$ denotes a surgical phase class at timestamp $t$, $N$ denotes a certain period of time for stability.
 
 2. The **Communication Module** sends the final recognized phase to the navigation software, which changes the 3D model view accordingly.
